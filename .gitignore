@@ -1,0 +1,16 @@
+.idea/
+*.iml
+*.iws
+out/
+.gradle/
+build/
+.courseignore
+EduTestHistory/
+course-remote-info.yaml
+**/.courseignore
+**/build/
+.DS_Store
+Thumbs.db
+*-remote-info.yaml
+*-info.yaml
+*.wb
